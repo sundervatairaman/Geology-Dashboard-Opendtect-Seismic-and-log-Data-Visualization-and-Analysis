@@ -7,7 +7,7 @@ This project provides a PyQt5-based GUI and Dash web application for visualizing
 ![project selection](selection1.png)
 ## Features
 
-- **Seismic Visualization**: Plot inline, crossline, and time-slice seismic data using Plotly.
+- **Seismic Visualization**: Plot inline, crossline, and time-slice seismic data using Plotly.Well log corelations along with seismic 
 - **Interactive GUI**: A PyQt5 interface with dropdowns, checklists, and sub-windows for seismic, well, and horizon visualization.
 - **Dash Integration**: A Dash web application for advanced visualization and interaction.
 - **Flexible Layout**: Supports tiled sub-windows and standalone Dash apps for detailed data analysis.
