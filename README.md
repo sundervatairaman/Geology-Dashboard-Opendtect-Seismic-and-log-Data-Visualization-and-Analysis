@@ -26,6 +26,9 @@ This project provides a PyQt5-based GUI and Dash web application for visualizing
   - xarray
   - `odbind` package for seismic data handling
 
+<img src="geology_dashboard.gif" width="800" />
+
+
 ## Installation
 
 1. Clone this repository:
