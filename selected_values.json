@@ -1,0 +1,11 @@
+{
+    "survey": "Penobscot",
+    "well": "B-41",
+    "seismic": "1-PSTM stack agc",
+    "horizon": "3-Hor C",
+    "log": "GR",
+    "plot": 2,
+    "inline": 1060,
+    "crossline": 1060,
+    "arbline": []
+}
