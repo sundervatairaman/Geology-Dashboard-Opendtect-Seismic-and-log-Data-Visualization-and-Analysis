@@ -1,6 +1,6 @@
 # Seismic Data Visualization Application
 
-This project provides a PyQt5-based GUI and Dash web application for visualizing and analyzing seismic data, wells, and horizons using `SeismicPlotter`. The application integrates Python libraries such as Plotly, Matplotlib, and Dash for interactive plotting and visualization.
+This project provides a PyQt5-based GUI and Dash web application for visualizing and analyzing seismic data, wells, and horizons and well log corelations. The application integrates Python libraries such as Plotly, Matplotlib, and Dash for interactive plotting and visualization.
 
 
 ![Log Corelation](log_corl1.png)
